@@ -1,0 +1,17 @@
+{
+    "version": "1.0.3",
+    "name": "com.sectionpi.androidsystem",
+    "cordova_name": "AndroidSystem",
+    "description": "SecitonPi Plugin",
+    "license": "Apache 2.0",
+    "repo": "https://github.com/derozgurg/cordovaPluginDeneme",
+    "issue": "https://github.com/derozgurg/cordovaPluginDeneme/issues",
+    "keywords": [
+        "Cordova",
+        "AndroidSystem"
+    ],
+    "platforms": [
+        "android"        
+    ],
+    "engines": []
+}
